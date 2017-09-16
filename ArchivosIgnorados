@@ -1,0 +1,6 @@
+# Ignorar los archivos #
+###################
+*.class
+*.swp
+*.project
+*.metadata
